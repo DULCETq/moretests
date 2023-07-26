@@ -1,0 +1,3 @@
+[submodule "moretests_server"]
+	path = moretests_server
+	url = https://github.com/DULCETq/moretests_server
